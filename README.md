@@ -87,6 +87,7 @@ bash
 **pip install -r requirements.txt**
 
 - **Run the scanner**
+
  **python ai_sentinel_enterprise.py https://example.com**
 **==========================================================**
 
