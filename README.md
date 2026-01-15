@@ -77,14 +77,9 @@ A- **Requirements** :
 -  **Dependencies** :
 bash
 
-
-**pip install aiohttp rich dnspython**
-
 **git clone https://github.com/NULL200OK/ai_sentinel_enterprise.py.git**
 
-**cd ai-sentinel**
-
-**pip install -r requirements.txt**
+**cd ai_sentinel_enterprise.py**
 
 - **Run the scanner**
 
