@@ -9,6 +9,7 @@ AI-powered security vulnerability scanner designed for penetration testers,
 security researchers, and bug bounty hunters. Built with modern Python asyncio architecture,
 
 it provides comprehensive web application security assessment with intelligent payload mutation and parallel scanning capabilities.
+
 **==========================================================**
 
 ✨ **Features**:
