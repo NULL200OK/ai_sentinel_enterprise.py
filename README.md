@@ -88,7 +88,7 @@ bash
 
 - **Run the scanner**
 
- **python ai_sentinel_enterprise.py https://example.com**
+ **python3 ai_sentinel_enterprise.py https://example.com**
 **==========================================================**
 
 - 📖 **Usage** :
