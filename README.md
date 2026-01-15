@@ -82,6 +82,8 @@ bash
 
 **cd ai_sentinel_enterprise.py**
 
+**chmod +x  ai_NULL_scan.py**
+
 - **Run the scanner**
 
  **python3 ai_sentinel_enterprise.py https://example.com**
